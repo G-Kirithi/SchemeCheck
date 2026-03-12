@@ -1,0 +1,7 @@
+streamlit
+anthropic
+ollama
+llama3
+tldextract
+pillow
+pytesseract
